@@ -1,7 +1,7 @@
 
-var userid = 'sudhir';
-var password = 'marg@sudhir#1985';
-var senderid = 'SOFSOL';
+var userid = '****';
+var password = '****';
+var senderid = '*****';
 
 var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
